@@ -1,0 +1,1 @@
+D:\Telerik\11.Databases\07.ADO.NET\09.MySQLDatabase\bin\Debug\09.MySQLDatabase.exe.config

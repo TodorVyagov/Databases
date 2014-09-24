@@ -1,0 +1,12 @@
+D:\Telerik\11.Databases\ADO.NET\08.SearchInProducts\bin\Debug\08.SearchInProducts.exe.config
+D:\Telerik\11.Databases\ADO.NET\08.SearchInProducts\bin\Debug\08.SearchInProducts.exe
+D:\Telerik\11.Databases\ADO.NET\08.SearchInProducts\bin\Debug\08.SearchInProducts.pdb
+D:\Telerik\11.Databases\ADO.NET\08.SearchInProducts\obj\Debug\08.SearchInProducts.csprojResolveAssemblyReference.cache
+D:\Telerik\11.Databases\ADO.NET\08.SearchInProducts\obj\Debug\08.SearchInProducts.exe
+D:\Telerik\11.Databases\ADO.NET\08.SearchInProducts\obj\Debug\08.SearchInProducts.pdb
+D:\Telerik\11.Databases\07.ADO.NET\08.SearchInProducts\bin\Debug\08.SearchInProducts.exe.config
+D:\Telerik\11.Databases\07.ADO.NET\08.SearchInProducts\obj\Debug\08.SearchInProducts.exe
+D:\Telerik\11.Databases\07.ADO.NET\08.SearchInProducts\obj\Debug\08.SearchInProducts.pdb
+D:\Telerik\11.Databases\07.ADO.NET\08.SearchInProducts\bin\Debug\08.SearchInProducts.exe
+D:\Telerik\11.Databases\07.ADO.NET\08.SearchInProducts\bin\Debug\08.SearchInProducts.pdb
+D:\Telerik\11.Databases\07.ADO.NET\08.SearchInProducts\obj\Debug\08.SearchInProducts.csprojResolveAssemblyReference.cache

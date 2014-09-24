@@ -1,0 +1,6 @@
+D:\Telerik\11.Databases\ADO.NET\05.GetImagesFromNorthwindCategories\bin\Debug\05.GetImagesFromNorthwindCategories.exe.config
+D:\Telerik\11.Databases\ADO.NET\05.GetImagesFromNorthwindCategories\bin\Debug\05.GetImagesFromNorthwindCategories.exe
+D:\Telerik\11.Databases\ADO.NET\05.GetImagesFromNorthwindCategories\bin\Debug\05.GetImagesFromNorthwindCategories.pdb
+D:\Telerik\11.Databases\ADO.NET\05.GetImagesFromNorthwindCategories\obj\Debug\05.GetImagesFromNorthwindCategories.csprojResolveAssemblyReference.cache
+D:\Telerik\11.Databases\ADO.NET\05.GetImagesFromNorthwindCategories\obj\Debug\05.GetImagesFromNorthwindCategories.exe
+D:\Telerik\11.Databases\ADO.NET\05.GetImagesFromNorthwindCategories\obj\Debug\05.GetImagesFromNorthwindCategories.pdb

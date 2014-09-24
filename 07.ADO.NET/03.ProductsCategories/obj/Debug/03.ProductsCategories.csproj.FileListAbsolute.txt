@@ -1,0 +1,6 @@
+D:\Telerik\11.Databases\ADO.NET\03.ProductsCategories\bin\Debug\03.ProductsCategories.exe.config
+D:\Telerik\11.Databases\ADO.NET\03.ProductsCategories\obj\Debug\03.ProductsCategories.csprojResolveAssemblyReference.cache
+D:\Telerik\11.Databases\ADO.NET\03.ProductsCategories\bin\Debug\03.ProductsCategories.exe
+D:\Telerik\11.Databases\ADO.NET\03.ProductsCategories\bin\Debug\03.ProductsCategories.pdb
+D:\Telerik\11.Databases\ADO.NET\03.ProductsCategories\obj\Debug\03.ProductsCategories.exe
+D:\Telerik\11.Databases\ADO.NET\03.ProductsCategories\obj\Debug\03.ProductsCategories.pdb

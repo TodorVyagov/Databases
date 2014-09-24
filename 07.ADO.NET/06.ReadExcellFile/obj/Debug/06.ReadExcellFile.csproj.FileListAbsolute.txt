@@ -1,0 +1,9 @@
+D:\Telerik\11.Databases\ADO.NET\06.ReadExcellFile\bin\Debug\06.ReadExcellFile.exe.config
+D:\Telerik\11.Databases\ADO.NET\06.ReadExcellFile\bin\Debug\06.ReadExcellFile.exe
+D:\Telerik\11.Databases\ADO.NET\06.ReadExcellFile\bin\Debug\06.ReadExcellFile.pdb
+D:\Telerik\11.Databases\ADO.NET\06.ReadExcellFile\obj\Debug\06.ReadExcellFile.csprojResolveAssemblyReference.cache
+D:\Telerik\11.Databases\ADO.NET\06.ReadExcellFile\obj\Debug\06.ReadExcellFile.exe
+D:\Telerik\11.Databases\ADO.NET\06.ReadExcellFile\obj\Debug\06.ReadExcellFile.pdb
+D:\Telerik\11.Databases\07.ADO.NET\06.ReadExcellFile\bin\Debug\06.ReadExcellFile.exe.config
+D:\Telerik\11.Databases\07.ADO.NET\06.ReadExcellFile\obj\Debug\06.ReadExcellFile.exe
+D:\Telerik\11.Databases\07.ADO.NET\06.ReadExcellFile\obj\Debug\06.ReadExcellFile.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\11.Databases\ADO.NET\02.DescriptionOfNorthwindCategories\bin\Debug\02.DescriptionOfNorthwindCategories.exe.config
+D:\Telerik\11.Databases\ADO.NET\02.DescriptionOfNorthwindCategories\bin\Debug\02.DescriptionOfNorthwindCategories.exe
+D:\Telerik\11.Databases\ADO.NET\02.DescriptionOfNorthwindCategories\bin\Debug\02.DescriptionOfNorthwindCategories.pdb
+D:\Telerik\11.Databases\ADO.NET\02.DescriptionOfNorthwindCategories\obj\Debug\02.DescriptionOfNorthwindCategories.exe
+D:\Telerik\11.Databases\ADO.NET\02.DescriptionOfNorthwindCategories\obj\Debug\02.DescriptionOfNorthwindCategories.pdb
+D:\Telerik\11.Databases\ADO.NET\02.DescriptionOfNorthwindCategories\obj\Debug\02.DescriptionOfNorthwindCategories.csprojResolveAssemblyReference.cache

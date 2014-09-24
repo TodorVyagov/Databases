@@ -1,0 +1,6 @@
+D:\Telerik\11.Databases\ADO.NET\04.AddProductWithParameterizedQuery\bin\Debug\04.AddProductWithParameterizedQuery.exe.config
+D:\Telerik\11.Databases\ADO.NET\04.AddProductWithParameterizedQuery\bin\Debug\04.AddProductWithParameterizedQuery.exe
+D:\Telerik\11.Databases\ADO.NET\04.AddProductWithParameterizedQuery\bin\Debug\04.AddProductWithParameterizedQuery.pdb
+D:\Telerik\11.Databases\ADO.NET\04.AddProductWithParameterizedQuery\obj\Debug\04.AddProductWithParameterizedQuery.exe
+D:\Telerik\11.Databases\ADO.NET\04.AddProductWithParameterizedQuery\obj\Debug\04.AddProductWithParameterizedQuery.pdb
+D:\Telerik\11.Databases\ADO.NET\04.AddProductWithParameterizedQuery\obj\Debug\04.AddProductWithParameterizedQuery.csprojResolveAssemblyReference.cache
