@@ -1,0 +1,11 @@
+D:\Telerik\11.Databases\08.EntityFramework\01.CreateDbContext\bin\Debug\NorthwindDbContext.exe.config
+D:\Telerik\11.Databases\08.EntityFramework\NorthwindDbContext\bin\Debug\NorthwindDbContext.exe.config
+D:\Telerik\11.Databases\08.EntityFramework\NorthwindDbContext\bin\Debug\NorthwindDbContext.exe
+D:\Telerik\11.Databases\08.EntityFramework\NorthwindDbContext\bin\Debug\NorthwindDbContext.pdb
+D:\Telerik\11.Databases\08.EntityFramework\NorthwindDbContext\bin\Debug\EntityFramework.dll
+D:\Telerik\11.Databases\08.EntityFramework\NorthwindDbContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik\11.Databases\08.EntityFramework\NorthwindDbContext\bin\Debug\EntityFramework.xml
+D:\Telerik\11.Databases\08.EntityFramework\NorthwindDbContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik\11.Databases\08.EntityFramework\NorthwindDbContext\obj\Debug\NorthwindDbContext.csprojResolveAssemblyReference.cache
+D:\Telerik\11.Databases\08.EntityFramework\NorthwindDbContext\obj\Debug\NorthwindDbContext.exe
+D:\Telerik\11.Databases\08.EntityFramework\NorthwindDbContext\obj\Debug\NorthwindDbContext.pdb
