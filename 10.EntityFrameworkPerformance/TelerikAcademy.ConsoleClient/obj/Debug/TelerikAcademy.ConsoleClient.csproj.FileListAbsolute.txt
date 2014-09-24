@@ -1,0 +1,15 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\bin\Debug\TestingEFQueries.ConsoleClient.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\bin\Debug\TestingEFQueries.ConsoleClient.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\bin\Debug\TestingEFQueries.ConsoleClient.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\bin\Debug\TelerikAcademy.Model.dll
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\bin\Debug\TelerikAcademy.Model.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\obj\Debug\TelerikAcademy.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\obj\Debug\TestingEFQueries.ConsoleClient.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\obj\Debug\TestingEFQueries.ConsoleClient.pdb
+D:\Telerik\11.Databases\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\bin\Debug\TestingEFQueries.ConsoleClient.exe.config
+D:\Telerik\11.Databases\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\obj\Debug\TestingEFQueries.ConsoleClient.exe
+D:\Telerik\11.Databases\10.EntityFrameworkPerformance\TelerikAcademy.ConsoleClient\obj\Debug\TestingEFQueries.ConsoleClient.pdb

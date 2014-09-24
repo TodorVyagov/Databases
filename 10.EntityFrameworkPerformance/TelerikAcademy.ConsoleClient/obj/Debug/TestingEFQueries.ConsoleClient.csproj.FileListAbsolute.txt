@@ -1,0 +1,1 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\10.EntityFrameworkPerformance\TestingEFQueries.ConsoleClient\bin\Debug\TestingEFQueries.ConsoleClient.exe.config
