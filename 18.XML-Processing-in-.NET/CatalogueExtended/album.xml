@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>Hits</name>
+    <author>Phil Collins</author>
+  </album>
+  <album>
+    <name>XSCAPE</name>
+    <author>Michael Jackson</author>
+  </album>
+  <album>
+    <name>Hits</name>
+    <author>Phil Collins</author>
+  </album>
+  <album>
+    <name>Venzi Malkia</name>
+    <author>Venzi</author>
+  </album>
+</albums>

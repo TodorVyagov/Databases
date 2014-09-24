@@ -1,0 +1,8 @@
+D:\Telerik\11.Databases\19.Processing-JSON-in-.NET\ProcessingJSON\JSON-OperationsWithTelerikForumsRSS\bin\Debug\JsonOperationsWithTelerikForumsRss.exe.config
+D:\Telerik\11.Databases\19.Processing-JSON-in-.NET\ProcessingJSON\JSON-OperationsWithTelerikForumsRSS\bin\Debug\JsonOperationsWithTelerikForumsRss.exe
+D:\Telerik\11.Databases\19.Processing-JSON-in-.NET\ProcessingJSON\JSON-OperationsWithTelerikForumsRSS\bin\Debug\JsonOperationsWithTelerikForumsRss.pdb
+D:\Telerik\11.Databases\19.Processing-JSON-in-.NET\ProcessingJSON\JSON-OperationsWithTelerikForumsRSS\bin\Debug\Newtonsoft.Json.dll
+D:\Telerik\11.Databases\19.Processing-JSON-in-.NET\ProcessingJSON\JSON-OperationsWithTelerikForumsRSS\bin\Debug\Newtonsoft.Json.xml
+D:\Telerik\11.Databases\19.Processing-JSON-in-.NET\ProcessingJSON\JSON-OperationsWithTelerikForumsRSS\obj\Debug\JSON-OperationsWithTelerikForumsRSS.csprojResolveAssemblyReference.cache
+D:\Telerik\11.Databases\19.Processing-JSON-in-.NET\ProcessingJSON\JSON-OperationsWithTelerikForumsRSS\obj\Debug\JsonOperationsWithTelerikForumsRss.exe
+D:\Telerik\11.Databases\19.Processing-JSON-in-.NET\ProcessingJSON\JSON-OperationsWithTelerikForumsRSS\obj\Debug\JsonOperationsWithTelerikForumsRss.pdb

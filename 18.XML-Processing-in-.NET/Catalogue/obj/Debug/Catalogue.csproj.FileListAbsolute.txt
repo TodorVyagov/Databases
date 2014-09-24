@@ -1,0 +1,12 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\18.XML-Processing-in-.NET\Catalogue\bin\Debug\Catalogue.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\18.XML-Processing-in-.NET\Catalogue\bin\Debug\Catalogue.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\18.XML-Processing-in-.NET\Catalogue\bin\Debug\Catalogue.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\18.XML-Processing-in-.NET\Catalogue\obj\Debug\Catalogue.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\18.XML-Processing-in-.NET\Catalogue\obj\Debug\Catalogue.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\18.XML-Processing-in-.NET\Catalogue\obj\Debug\Catalogue.pdb
+D:\Telerik\11.Databases\18.XML-Processing-in-.NET\Catalogue\bin\Debug\Catalogue.exe.config
+D:\Telerik\11.Databases\18.XML-Processing-in-.NET\Catalogue\obj\Debug\Catalogue.exe
+D:\Telerik\11.Databases\18.XML-Processing-in-.NET\Catalogue\obj\Debug\Catalogue.pdb
+D:\Telerik\11.Databases\18.XML-Processing-in-.NET\Catalogue\bin\Debug\Catalogue.exe
+D:\Telerik\11.Databases\18.XML-Processing-in-.NET\Catalogue\bin\Debug\Catalogue.pdb
+D:\Telerik\11.Databases\18.XML-Processing-in-.NET\Catalogue\obj\Debug\Catalogue.csprojResolveAssemblyReference.cache

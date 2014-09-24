@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<students xmlns:students="urn:students">
+  <student>
+    <name>Pesho Peshev</name>
+    <sex>M</sex>
+    <birthDate>1995-05-22</birthDate>
+    <phone>0888222555</phone>
+    <email>pesho@peshev.bg</email>
+    <course>Mathematics</course>
+    <specialty>Informatics and Mathematics</specialty>
+    <facultyNumber>240025874</facultyNumber>
+    <examsTaken>
+      <exam>
+        <examName>Differential equations</examName>
+        <tutor>prof. Georgiev</tutor>
+        <score>5.6</score>
+      </exam>
+      <exam>
+        <examName>Combinatorics</examName>
+        <tutor>prof. Nakov</tutor>
+        <score>4.2</score>
+      </exam>
+    </examsTaken>
+    <enrolment>
+      <date>1994-04-01</date>
+      <score>5.5</score>
+    </enrolment>
+    <teacherEndorsments>
+      <endorsment>Geometry</endorsment>
+      <endorsment>Algebra</endorsment>
+    </teacherEndorsments>
+  </student>
+  <student>
+    <name>Gosho Ginchev</name>
+    <sex>M</sex>
+    <birthDate>1995-05-22</birthDate>
+    <phone>0888222555</phone>
+    <email>pesho@peshev.bg</email>
+    <course>Mathematics</course>
+    <specialty>Informatics and Mathematics</specialty>
+    <facultyNumber>240025874</facultyNumber>
+    <examsTaken>
+      <exam>
+        <examName>Differential equations</examName>
+        <tutor>prof. Georgiev</tutor>
+        <score>5.6</score>
+      </exam>
+      <exam>
+        <examName>Combinatorics</examName>
+        <tutor>prof. Nakov</tutor>
+        <score>4.2</score>
+      </exam>
+    </examsTaken>
+    <enrolment>
+      <date>1994-04-01</date>
+      <score>5.5</score>
+    </enrolment>
+    <teacherEndorsments>
+      <endorsment>Geometry</endorsment>
+      <endorsment>Algebra</endorsment>
+    </teacherEndorsments>
+  </student>
+</students>

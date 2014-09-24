@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalogue name="My albums">
+  <album>
+    <name>Hits</name>
+    <artist>Phil Collins</artist>
+    <year>2008</year>
+    <producer>Phil Collins studio recordings</producer>
+    <price>14.95</price>
+    <songs>
+      <song>
+        <title>Another Day in Paradise</title>
+        <duration>322</duration>
+      </song>
+      <song>
+        <title>Both Sides of the Story</title>
+        <duration>397</duration>
+      </song>
+      <song>
+        <title>One More Night</title>
+        <duration>286</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>XSCAPE</name>
+    <artist>Michael Jackson</artist>
+    <year>2014</year>
+    <producer>Timbaland</producer>
+    <price>16.80</price>
+    <songs>
+      <song>
+        <title>Love Never Felt So Good</title>
+        <duration>246</duration>
+      </song>
+      <song>
+        <title>Blue Gangsta</title>
+        <duration>284</duration>
+      </song>
+      <song>
+        <title>Loving You</title>
+        <duration>215</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Hits</name>
+    <artist>Phil Collins</artist>
+    <year>1998</year>
+    <producer>Phil Collins studio recordings</producer>
+    <price>14.95</price>
+    <songs>
+      <song>
+        <title>Another Day in Paradise</title>
+        <duration>322</duration>
+      </song>
+      <song>
+        <title>Both Sides of the Story</title>
+        <duration>397</duration>
+      </song>
+      <song>
+        <title>One More Night</title>
+        <duration>286</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Venzi Malkia</name>
+    <artist>Venzi</artist>
+    <year>2013</year>
+    <producer>Aleksandra Audio</producer>
+    <price>25</price>
+    <songs>
+      <song>
+        <title>Pesho malkia</title>
+        <duration>333</duration>
+      </song>
+      <song>
+        <title>Gosho mastikata</title>
+        <duration>432</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>
