@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\13.Transactions\ATM\bin\Debug\ATM.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\13.Transactions\ATM\bin\Debug\ATM.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\13.Transactions\ATM\bin\Debug\ATM.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\13.Transactions\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\13.Transactions\ATM\obj\Debug\ATM.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\13.Transactions\ATM\obj\Debug\ATM.pdb
